@@ -21,23 +21,8 @@
 <img src="https://user-images.githubusercontent.com/64455524/161362374-fee87cec-1f97-4033-9c0b-1b8ff7ff4bc0.svg" alt="Kotlin" height="40" style="vertical-align:top; margin:6px">
 <img src="https://user-images.githubusercontent.com/64455524/161362255-dbf3403a-186b-4915-b270-7afb557a2ece.svg" alt="VS Code" height="40" style="vertical-align:top; margin:6px">
 <img src="https://user-images.githubusercontent.com/64455524/161362415-a765d367-5994-4154-911b-555015e53711.svg" alt="Android Studio" height="40" style="vertical-align:top; margin:6px">
-<img src="https://user-images.githubusercontent.com/64455524/159157721-f07349e3-6879-4f54-9cd0-dced61e4d19d.svg" alt="Figma" height="35" style="vertical-align:top; margin:6px">
+<img src="https://user-images.githubusercontent.com/64455524/161362552-62ca26ec-9bde-40ba-b56d-e2c841207772.svg" alt="Figma" height="40" style="vertical-align:top; margin:6px">
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
