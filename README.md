@@ -15,12 +15,22 @@
 
 ## Languages and Tools:
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:6px">
-<img src="https://user-images.githubusercontent.com/64455524/159157695-365805fc-822c-47f1-9a60-894e39a84801.svg" alt="Flutter" height="40" style="vertical-align:top; margin:6px">
-<img src="https://user-images.githubusercontent.com/64455524/159157716-69a579a9-85bf-44d2-8e9d-a51d73e39c93.svg" alt="Dart" height="40" style="vertical-align:top; margin:6px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:6px">
-<img src="https://user-images.githubusercontent.com/64455524/159157721-f07349e3-6879-4f54-9cd0-dced61e4d19d.svg" alt="Figma" height="40" style="vertical-align:top; margin:6px">
+<img src="https://user-images.githubusercontent.com/64455524/161361301-1a85bbd9-0544-4797-95a7-1dffe5ca091f.png" alt="Python" height="40" style="vertical-align:top; margin:6px">
+<img src="https://user-images.githubusercontent.com/64455524/161361492-683c2ac9-39af-4643-b991-c8234f517909.png" alt="Flutter" height="40" style="vertical-align:top; margin:6px">
+<img src="https://user-images.githubusercontent.com/64455524/161361338-a84051c9-cf34-4e35-bb91-a6c08ccc1635.png" alt="Dart" height="40" style="vertical-align:top; margin:6px">
+<img src="https://user-images.githubusercontent.com/64455524/161361381-e642eff8-14dd-43c8-b3f1-1a5dfbc76be7.png" alt="Kotlin" height="40" style="vertical-align:top; margin:6px">
+<img src="https://user-images.githubusercontent.com/64455524/161361198-cbbd8eec-86cb-48b5-b21c-23bad14cc2f2.png" alt="VS Code" height="40" style="vertical-align:top; margin:6px">
+<img src="https://user-images.githubusercontent.com/64455524/161361080-9890afab-7a0f-41ac-9af2-5fb9ca12ede6.png" alt="Android Studio" height="40" style="vertical-align:top; margin:6px">
+<img src="https://user-images.githubusercontent.com/64455524/161361434-00d39941-2f64-492a-9fe5-187a253b78c0.png" alt="Xcode" height="40" style="vertical-align:top; margin:6px">
+<img src="https://user-images.githubusercontent.com/64455524/159157721-f07349e3-6879-4f54-9cd0-dced61e4d19d.svg" alt="Figma" height="35" style="vertical-align:top; margin:6px">
 </p>
+
+
+
+
+
+
+
 
 
 
