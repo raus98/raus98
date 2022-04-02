@@ -15,15 +15,21 @@
 
 ## Languages and Tools:
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64455524/161361301-1a85bbd9-0544-4797-95a7-1dffe5ca091f.png" alt="Python" height="40" style="vertical-align:top; margin:6px">
-<img src="https://user-images.githubusercontent.com/64455524/161361492-683c2ac9-39af-4643-b991-c8234f517909.png" alt="Flutter" height="40" style="vertical-align:top; margin:6px">
-<img src="https://user-images.githubusercontent.com/64455524/161361338-a84051c9-cf34-4e35-bb91-a6c08ccc1635.png" alt="Dart" height="40" style="vertical-align:top; margin:6px">
-<img src="https://user-images.githubusercontent.com/64455524/161361381-e642eff8-14dd-43c8-b3f1-1a5dfbc76be7.png" alt="Kotlin" height="40" style="vertical-align:top; margin:6px">
-<img src="https://user-images.githubusercontent.com/64455524/161361198-cbbd8eec-86cb-48b5-b21c-23bad14cc2f2.png" alt="VS Code" height="40" style="vertical-align:top; margin:6px">
-<img src="https://user-images.githubusercontent.com/64455524/161361080-9890afab-7a0f-41ac-9af2-5fb9ca12ede6.png" alt="Android Studio" height="40" style="vertical-align:top; margin:6px">
-<!-- <img src="https://user-images.githubusercontent.com/64455524/161361434-00d39941-2f64-492a-9fe5-187a253b78c0.png" alt="Xcode" height="40" style="vertical-align:top; margin:6px"> -->
+<img src="https://user-images.githubusercontent.com/64455524/161362493-f5c569ac-56bb-4e4c-a9f5-d7482923bc54.svg" alt="Python" height="40" style="vertical-align:top; margin:6px">
+<img src="https://user-images.githubusercontent.com/64455524/161362276-2ef0728d-039e-418a-91a0-8d0ff255522e.svg" alt="Flutter" height="40" style="vertical-align:top; margin:6px">
+<img src="https://user-images.githubusercontent.com/64455524/161362341-ca699835-31bc-45ed-9f9b-5d66e540426b.svg" alt="Dart" height="40" style="vertical-align:top; margin:6px">
+<img src="https://user-images.githubusercontent.com/64455524/161362374-fee87cec-1f97-4033-9c0b-1b8ff7ff4bc0.svg" alt="Kotlin" height="40" style="vertical-align:top; margin:6px">
+<img src="https://user-images.githubusercontent.com/64455524/161362255-dbf3403a-186b-4915-b270-7afb557a2ece.svg" alt="VS Code" height="40" style="vertical-align:top; margin:6px">
+<img src="https://user-images.githubusercontent.com/64455524/161362415-a765d367-5994-4154-911b-555015e53711.svg" alt="Android Studio" height="40" style="vertical-align:top; margin:6px">
 <img src="https://user-images.githubusercontent.com/64455524/159157721-f07349e3-6879-4f54-9cd0-dced61e4d19d.svg" alt="Figma" height="35" style="vertical-align:top; margin:6px">
 </p>
+
+
+
+
+
+
+
 
 
 
