@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying **Internet of Things** at [Ho Chi Minh City University of Technology and Education](https://hcmute.edu.vn/)
 - 🌱 I’m currently learning Flutter, Python,...
-- ⚡ Fun fact: I love to play basketball and chill with my cat
+- ⚡ Fun fact: I like playing basketball and chilling with my cat
 
 ## Connect with me:
 - [Facebook](https://www.facebook.com/raustown/)
